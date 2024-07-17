@@ -1,9 +1,12 @@
-# Sample Snack app
+# Caixa Feliz
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Descrição
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+O CAIXA FELIZ é um aplicativo mobile que funciona como um caixa virtual, com histórico contábil simples, tudo armazenado localmente no celular.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+O aplicativo é totalmente gratuito e comunitário, e foi desenvolvido usando as tecnologias React Native e Expo.
+Ainda está em desenvolvimento, mas já está pronto para ser usado. 
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Uso
+
+Para visualizar o APP, basta acessar: https://snack.expo.dev/SGv6_4jECB6ODojgr2BKR 
